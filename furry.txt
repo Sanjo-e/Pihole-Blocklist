@@ -1,5 +1,5 @@
 e621.net
-e926.net (SFW version of e621)
+e926.net
 furaffinity.net
 sofurry.com
 inkbunny.net
@@ -7,7 +7,7 @@ weasyl.com
 furrynetwork.com
 f-list.net
 u18chan.com
-yiff.party (archive site)
+yiff.party
 kemono.party
 yiffer.xyz
 furaffinityforums.net
@@ -15,17 +15,17 @@ vcl.fur.com
 fchan.us
 lulz.net
 furry.booru.org
-e-hentai.org (has furry sections)
+e-hentai.org
 rule34.paheal.net
 yiffstar.com
-vipergirls.to (has furry sections)
+vipergirls.to
 621.gallery
 furrychan.net
 furrymate.com
 pounced.org
 furrydelphia.org
 anthropomorphic.com
-crush.zone (furry dating)
+crush.zone
 ferzu.com
 howlr.me
 metafur.com
@@ -37,8 +37,8 @@ fursuit.me
 furrymigrate.com
 furrymuckdirectory.com
 tapestries.org
-secondlife.com (has extensive furry communities)
-facdn.net (FurAffinity CDN)
+secondlife.com
+facdn.net
 d.furaffinity.net
 d.facdn.net
 t.facdn.netfchan.xyz
@@ -51,7 +51,7 @@ furrymate.com
 pounced.org
 furrydelphia.org
 anthropomorphic.com
-crush.zone (furry dating)
+crush.zone
 ferzu.com
 howlr.me
 metafur.com
@@ -63,8 +63,8 @@ fursuit.me
 furrymigrate.com
 furrymuckdirectory.com
 tapestries.org
-secondlife.com (has extensive furry communities)
-facdn.net (FurAffinity CDN)
+secondlife.com
+facdn.net
 d.furaffinity.net
 d.facdn.net
 t.facdn.net
@@ -75,9 +75,9 @@ lulz.net/furi
 cutechan.org
 furrychan.org
 furrybooru.org
-xbooru.com (has furry content)
-ibsearch.xxx (furry search engine)
-tgcomics.com (has furry content)
+xbooru.com
+ibsearch.xxx
+tgcomics.com
 yiffy.tk
 yiff.today
 furryporn.xxx
