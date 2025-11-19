@@ -8,7 +8,7 @@ yourtango.com
 inkitt.com
 novel-cat.com
 bookreadfree.com
-penana.com
+||penana.com^
 thesmuthub.com
 oceanofpdf.com
 hercampus.com
